@@ -20,7 +20,7 @@ const config = {
     medium: '',
     dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://luisperez.site',
+    website: 'https://luisthetutor.me/gitprofile',
     phone: '',
     email: 'lperezmo05@gmail.com',
   },
