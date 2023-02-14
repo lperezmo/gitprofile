@@ -6,8 +6,8 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
-      forks: true, // Forked projects will not be displayed if set to true.
-      projects: ['Data-stealer'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      forks: false, // Forked projects will not be displayed if set to true.
+      projects: ['Data-stealer', 'nextjs', 'nextjs-app'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -83,18 +83,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'E-Commerce Website',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Large E-Commerce Website, details are confidential at the moment.',
+      imageUrl: 'https://pbs.twimg.com/profile_images/1545167612988084224/gO_USmpO_400x400.png',
+      link: 'https://www.bigcommerce.com',
     },
     {
-      title: 'Project Name',
+      title: 'Internal Applications',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Internal Python/SQL-based tools to increase overall productivity and make repetitive tasks faster.',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png',
+      link: 'https://luis.site',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
