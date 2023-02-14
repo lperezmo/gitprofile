@@ -7,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['Data-stealer', 'nextjs', 'nextjs-app'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Data-stealer', 'nextjs', 'nextjs-app', 'gpseer'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -20,7 +20,7 @@ const config = {
     medium: '',
     dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://luisthetutor.me/gitprofile',
+    website: 'https://luisperez.site',
     phone: '',
     email: 'lperezmo05@gmail.com',
   },
@@ -39,7 +39,6 @@ const config = {
     'Node.js',
     'MySQL',
     'Ruby',
-    'Pascal',
   ],
   experiences: [
     {
