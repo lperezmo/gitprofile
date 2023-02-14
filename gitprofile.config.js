@@ -177,6 +177,6 @@ const config = {
 //       target="_blank"
 //       rel="noreferrer"
 //     >GitProfile</a> and ❤️`,
-// };
+};
 
 export default config;
