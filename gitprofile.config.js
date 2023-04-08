@@ -32,6 +32,7 @@ const config = {
     'Python',
     'Git',
     'JavaScript',
+    'Svelte',
     'HTML',
     'CSS',
     'Docker',
@@ -66,7 +67,7 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Umiversity of Oregon Graduate School',
+      institution: 'University of Oregon Graduate School',
       degree: 'Master of Science',
       from: '2019',
       to: '2021',
