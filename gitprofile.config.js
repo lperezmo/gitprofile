@@ -83,11 +83,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'E-Commerce Website',
+      title: 'Hess Services Store',
       description:
-        'Large E-Commerce Website, details are confidential at the moment.',
-      imageUrl: 'https://pbs.twimg.com/profile_images/1545167612988084224/gO_USmpO_400x400.png',
-      link: 'https://www.bigcommerce.com',
+        'E-Commerce Website',
+      imageUrl: 'https://cdn11.bigcommerce.com/s-ibpaqma25h/images/stencil/250x100/hess-logo-blue-large_1679416785__98785.original.png',
+      link: 'https://hess-services.store',
     },
     {
       title: 'Internal Applications',
